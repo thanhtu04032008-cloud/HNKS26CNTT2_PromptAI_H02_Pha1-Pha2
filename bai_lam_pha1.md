@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:** Lê Đặng Thanh Tú
 - **Lớp:** CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1 https://github.com/thanhtu04032008-cloud/HNKS26CNTT2_PromptAI_H02_Pha1-Pha2.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
